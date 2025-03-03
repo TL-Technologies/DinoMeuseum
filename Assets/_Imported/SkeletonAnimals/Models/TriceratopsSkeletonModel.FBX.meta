@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 5492609eafd1244bf9d6d9e64e642ad8
+timeCreated: 1447466620
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone005
+    100010: Bone006
+    100012: Bone007
+    100014: Bone008
+    100016: Bone009
+    100018: Bone010
+    100020: Bone011
+    100022: Bone012
+    100024: Bone013
+    100026: Bone014
+    100028: Bone015
+    100030: Bone016
+    100032: Bone017
+    100034: Bone018
+    100036: Bone019
+    100038: Bone020
+    100040: Bone021
+    100042: Bone022
+    100044: Bone023
+    100046: Bone024
+    100048: Bone025
+    100050: Bone026
+    100052: Bone027
+    100054: Bone028
+    100056: Bone029
+    100058: Bone030
+    100060: Bone031
+    100062: Bone032
+    100064: Bone033
+    100066: Bone034
+    100068: Bone035
+    100070: Bone037
+    100072: Bone038
+    100074: Bone039
+    100076: Bone040
+    100078: Bone041
+    100080: Bone042
+    100082: Bone043
+    100084: Bone044
+    100086: Bone045
+    100088: Bone046
+    100090: Bone047
+    100092: Bone048
+    100094: Bone049
+    100096: Bone050
+    100098: Bone052
+    100100: Bone053
+    100102: Bone054
+    100104: Bone055
+    100106: Bone056
+    100108: Bone060
+    100110: Bone061
+    100112: Bone062
+    100114: Bone063
+    100116: Bone064
+    100118: Bone065
+    100120: Bone066
+    100122: Bone067
+    100124: Bone068
+    100126: Bone069
+    100128: Bone070
+    100130: Bone071
+    100132: Bone072
+    100134: Bone073
+    100136: Bone074
+    100138: Bone075
+    100140: Bone076
+    100142: Bone077
+    100144: Bone078
+    100146: Bone079
+    100148: Bone080
+    100150: Bone081
+    100152: Bone082
+    100154: Bone083
+    100156: Bone084
+    100158: Bone085
+    100160: Bone086
+    100162: Bone087
+    100164: Bone088
+    100166: Bone089
+    100168: Bone090
+    100170: Bone091
+    100172: Bone092
+    100174: Bone093
+    100176: Bone094
+    100178: Bone095
+    100180: Bone096
+    100182: Bone097
+    100184: IK Chain001
+    100186: IK Chain002
+    100188: IK Chain003
+    100190: IK Chain004
+    100192: RootNode
+    100194: TriceratopsSkeleton
+    100196: //RootNode
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone005
+    400010: Bone006
+    400012: Bone007
+    400014: Bone008
+    400016: Bone009
+    400018: Bone010
+    400020: Bone011
+    400022: Bone012
+    400024: Bone013
+    400026: Bone014
+    400028: Bone015
+    400030: Bone016
+    400032: Bone017
+    400034: Bone018
+    400036: Bone019
+    400038: Bone020
+    400040: Bone021
+    400042: Bone022
+    400044: Bone023
+    400046: Bone024
+    400048: Bone025
+    400050: Bone026
+    400052: Bone027
+    400054: Bone028
+    400056: Bone029
+    400058: Bone030
+    400060: Bone031
+    400062: Bone032
+    400064: Bone033
+    400066: Bone034
+    400068: Bone035
+    400070: Bone037
+    400072: Bone038
+    400074: Bone039
+    400076: Bone040
+    400078: Bone041
+    400080: Bone042
+    400082: Bone043
+    400084: Bone044
+    400086: Bone045
+    400088: Bone046
+    400090: Bone047
+    400092: Bone048
+    400094: Bone049
+    400096: Bone050
+    400098: Bone052
+    400100: Bone053
+    400102: Bone054
+    400104: Bone055
+    400106: Bone056
+    400108: Bone060
+    400110: Bone061
+    400112: Bone062
+    400114: Bone063
+    400116: Bone064
+    400118: Bone065
+    400120: Bone066
+    400122: Bone067
+    400124: Bone068
+    400126: Bone069
+    400128: Bone070
+    400130: Bone071
+    400132: Bone072
+    400134: Bone073
+    400136: Bone074
+    400138: Bone075
+    400140: Bone076
+    400142: Bone077
+    400144: Bone078
+    400146: Bone079
+    400148: Bone080
+    400150: Bone081
+    400152: Bone082
+    400154: Bone083
+    400156: Bone084
+    400158: Bone085
+    400160: Bone086
+    400162: Bone087
+    400164: Bone088
+    400166: Bone089
+    400168: Bone090
+    400170: Bone091
+    400172: Bone092
+    400174: Bone093
+    400176: Bone094
+    400178: Bone095
+    400180: Bone096
+    400182: Bone097
+    400184: IK Chain001
+    400186: IK Chain002
+    400188: IK Chain003
+    400190: IK Chain004
+    400192: RootNode
+    400194: TriceratopsSkeleton
+    400196: //RootNode
+    4300000: TriceratopsSkeleton
+    9500000: //RootNode
+    13700000: TriceratopsSkeleton
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: RootNode
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

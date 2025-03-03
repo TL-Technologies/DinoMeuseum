@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: f93c887bfd67647bcb08aaf07b7c11fa
+timeCreated: 1451847905
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone008
+    100008: Bone009
+    100010: Bone010
+    100012: Bone011
+    100014: Bone012
+    100016: Bone013
+    100018: Bone014
+    100020: Bone015
+    100022: Bone016
+    100024: Bone025
+    100026: Bone026
+    100028: Bone027
+    100030: Bone028
+    100032: Bone029
+    100034: Bone030
+    100036: Bone031
+    100038: Bone032
+    100040: Bone033
+    100042: Bone034
+    100044: Bone035
+    100046: Bone036
+    100048: Bone037
+    100050: Bone038
+    100052: Bone039
+    100054: Bone040
+    100056: Bone041
+    100058: Bone042
+    100060: Bone043
+    100062: Bone044
+    100064: Bone045
+    100066: Bone046
+    100068: Bone047
+    100070: Bone048
+    100072: Bone049
+    100074: Bone050
+    100076: Bone051
+    100078: Bone052
+    100080: Bone053
+    100082: Bone054
+    100084: IKParent
+    100086: OwlSkeleton
+    100088: //RootNode
+    100090: RootNode
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone008
+    400008: Bone009
+    400010: Bone010
+    400012: Bone011
+    400014: Bone012
+    400016: Bone013
+    400018: Bone014
+    400020: Bone015
+    400022: Bone016
+    400024: Bone025
+    400026: Bone026
+    400028: Bone027
+    400030: Bone028
+    400032: Bone029
+    400034: Bone030
+    400036: Bone031
+    400038: Bone032
+    400040: Bone033
+    400042: Bone034
+    400044: Bone035
+    400046: Bone036
+    400048: Bone037
+    400050: Bone038
+    400052: Bone039
+    400054: Bone040
+    400056: Bone041
+    400058: Bone042
+    400060: Bone043
+    400062: Bone044
+    400064: Bone045
+    400066: Bone046
+    400068: Bone047
+    400070: Bone048
+    400072: Bone049
+    400074: Bone050
+    400076: Bone051
+    400078: Bone052
+    400080: Bone053
+    400082: Bone054
+    400084: IKParent
+    400086: OwlSkeleton
+    400088: //RootNode
+    400090: RootNode
+    4300000: OwlSkeleton
+    9500000: //RootNode
+    13700000: OwlSkeleton
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: RootNode
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

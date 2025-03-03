@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cdbd19972ef6c624a85ff999ef7c9966
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mat: {fileID: 2100000, guid: 7b75b2ed9fa69d54cbde79ddc7fb2435, type: 2}
+  - rend: {instanceID: 0}
+  - dirtMaskTexture: {fileID: 2800000, guid: 35cff2a41730b2c49b9ad6ae26071c30, type: 3}
+  - dirtMaskTextureBase: {instanceID: 0}
+  - polishMat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
